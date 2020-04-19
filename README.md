@@ -42,4 +42,5 @@ _The Winner of the Election was:
   2. Denver County had 306,055 total votes which came out to be the overwhelming majority of 82.8% of the total votes
   3. Arapahoe County had 24,801 total votes which was 6.7% of the total votes.
   Denver County had the majority of the total votes in the congressional election.
-  This challenge was difficult with all of the different conditions that had to be met and the spacing as well made it challenging. Having my previous module work helped immensely as I had a blueprint in order to refactor and make everything work together.
+  
+  __This challenge was difficult with all of the different conditions that had to be met and the spacing as well made it challenging. Having my previous module work helped immensely as I had a blueprint in order to refactor and make everything work together.
