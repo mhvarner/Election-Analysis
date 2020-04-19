@@ -36,4 +36,9 @@ _The Winner of the Election was:
   4. After that, I created a for loop to show the vote_percentage and then county_results using an f-string : (f"{county}: {vote_percentage:.1f}% ({i:,})\n") and then had it print the results.
   5. I then used text_file.write(county_results) to write the text in the file
   6. After completing, I wrote in a quick if statement showing the county with the majority of the votes
+  RESULTS:
+  1. Jefferson County had 38,855 total votes which encompassed 10.5% of the total votes
+  2. Denver County had 306,055 total votes which came out to be the overwhelming majority of 82.8% of the total votes
+  3. Arapahoe County had 24,801 total votes which was 6.7% of the total votes.
+  Denver County had the majority of the total votes in the congressional election.
   This challenge was difficult with all of the different conditions that had to be met and the spacing as well made it challenging. Having my previous module work helped immensely as I had a blueprint in order to refactor and make everything work together.
